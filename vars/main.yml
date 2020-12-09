@@ -1,0 +1,14 @@
+---
+
+http_host: "mywebsite"
+http_conf: "mywebsite.conf"
+http_port: "8080"
+
+# mariadb-server variables
+
+mariadb_root: "myroot123"
+mariadb_user: "wpuser"
+mariadb_password: "wpuser123"
+mariadb_database: "wordpress"
+
+# vars file for lamp
